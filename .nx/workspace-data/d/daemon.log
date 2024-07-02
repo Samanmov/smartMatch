@@ -70,3 +70,9 @@
 [NX Daemon Server] - 2024-07-02T20:03:53.160Z - [REQUEST]: README.md
 [NX Daemon Server] - 2024-07-02T20:03:53.160Z - [REQUEST]: 
 [NX Daemon Server] - 2024-07-02T20:03:53.211Z - Time taken for 'hash changed files from watcher' 0.05729199945926666ms
+[NX Daemon Server] - 2024-07-02T20:08:00.464Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-02T20:09:16.463Z - [WATCHER]: .gitignore was modified
+[NX Daemon Server] - 2024-07-02T20:09:16.464Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-02T20:09:16.464Z - [WATCHER]: Stopping the watcher for /Users/saman_mov/frontend/learning/smartMatch (sources)
+[NX Daemon Server] - 2024-07-02T20:09:16.464Z - [WATCHER]: Stopping the watcher for /Users/saman_mov/frontend/learning/smartMatch (outputs)
+[NX Daemon Server] - 2024-07-02T20:09:16.464Z - Server stopped because: "Stopping the daemon the set of ignored files changed (native)"
