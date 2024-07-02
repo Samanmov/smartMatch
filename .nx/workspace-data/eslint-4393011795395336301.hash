@@ -1,0 +1,114 @@
+{
+  "14429979536258987618": {
+    ".": {
+      "targets": {
+        "lint": {
+          "command": "eslint ./src",
+          "cache": true,
+          "options": {
+            "cwd": "."
+          },
+          "inputs": [
+            "default",
+            "^default",
+            "{projectRoot}/eslintrc.json",
+            "{projectRoot}/.eslintignore",
+            "{workspaceRoot}/tools/eslint-rules/**/*",
+            {
+              "externalDependencies": [
+                "eslint"
+              ]
+            }
+          ],
+          "outputs": [
+            "{options.outputFile}"
+          ]
+        }
+      }
+    }
+  },
+  "8028370451166405268": {
+    ".": {
+      "targets": {
+        "lint": {
+          "command": "eslint ./src",
+          "cache": true,
+          "options": {
+            "cwd": "."
+          },
+          "inputs": [
+            "default",
+            "^default",
+            "{projectRoot}/eslintrc.json",
+            "{projectRoot}/.eslintignore",
+            "{workspaceRoot}/tools/eslint-rules/**/*",
+            {
+              "externalDependencies": [
+                "eslint"
+              ]
+            }
+          ],
+          "outputs": [
+            "{options.outputFile}"
+          ]
+        }
+      }
+    }
+  },
+  "11300558145526388556": {
+    ".": {
+      "targets": {
+        "lint": {
+          "command": "eslint ./src",
+          "cache": true,
+          "options": {
+            "cwd": "."
+          },
+          "inputs": [
+            "default",
+            "^default",
+            "{projectRoot}/eslintrc.json",
+            "{projectRoot}/.eslintignore",
+            "{workspaceRoot}/tools/eslint-rules/**/*",
+            {
+              "externalDependencies": [
+                "eslint"
+              ]
+            }
+          ],
+          "outputs": [
+            "{options.outputFile}"
+          ]
+        }
+      }
+    }
+  },
+  "16173142747854149918": {
+    ".": {
+      "targets": {
+        "lint": {
+          "command": "eslint ./src",
+          "cache": true,
+          "options": {
+            "cwd": "."
+          },
+          "inputs": [
+            "default",
+            "^default",
+            "{projectRoot}/eslintrc.json",
+            "{projectRoot}/.eslintignore",
+            "{workspaceRoot}/tools/eslint-rules/**/*",
+            {
+              "externalDependencies": [
+                "eslint"
+              ]
+            }
+          ],
+          "outputs": [
+            "{options.outputFile}"
+          ]
+        }
+      }
+    }
+  }
+}

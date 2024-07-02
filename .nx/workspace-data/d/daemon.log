@@ -1,0 +1,72 @@
+[NX Daemon Server] - 2024-07-02T20:02:07.404Z - Started listening on: /var/folders/n4/nhc_pfns6bvfcjpg5ywd18ym0000gn/T/78dd4d1d8ba63766701d/d.sock
+[NX Daemon Server] - 2024-07-02T20:02:07.406Z - [WATCHER]: Subscribed to changes within: /Users/saman_mov/frontend/learning/smartMatch (native)
+[NX Daemon Server] - 2024-07-02T20:02:07.416Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-07-02T20:02:07.418Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-07-02T20:02:07.420Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-07-02T20:02:07.422Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-07-02T20:02:07.423Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-07-02T20:02:07.423Z - Handled GLOB. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-07-02T20:02:07.458Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-07-02T20:02:07.459Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-07-02T20:02:07.459Z - Handled HASH_GLOB. Handling time: 6. Response time: 1.
+[NX Daemon Server] - 2024-07-02T20:02:07.584Z - [REQUEST]: Responding to the client. handleHashGlob
+[NX Daemon Server] - 2024-07-02T20:02:07.584Z - Done responding to the client handleHashGlob
+[NX Daemon Server] - 2024-07-02T20:02:07.585Z - Handled HASH_GLOB. Handling time: 2. Response time: 1.
+[NX Daemon Server] - 2024-07-02T20:02:07.586Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-07-02T20:02:07.586Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-07-02T20:02:07.586Z - Handled GLOB. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-07-02T20:02:08.864Z - [REQUEST]: Responding to the client. handleNxWorkspaceFiles
+[NX Daemon Server] - 2024-07-02T20:02:08.864Z - Done responding to the client handleNxWorkspaceFiles
+[NX Daemon Server] - 2024-07-02T20:02:08.865Z - Handled GET_NX_WORKSPACE_FILES. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-07-02T20:02:08.919Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-07-02T20:02:31.309Z - Started listening on: /var/folders/n4/nhc_pfns6bvfcjpg5ywd18ym0000gn/T/78dd4d1d8ba63766701d/d.sock
+[NX Daemon Server] - 2024-07-02T20:02:31.311Z - [WATCHER]: Subscribed to changes within: /Users/saman_mov/frontend/learning/smartMatch (native)
+[NX Daemon Server] - 2024-07-02T20:02:31.312Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-07-02T20:02:31.312Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-07-02T20:02:31.313Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-07-02T20:02:31.314Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2024-07-02T20:02:31.368Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-02T20:02:31.368Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-02T20:02:31.368Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-02T20:02:32.647Z - Time taken for 'Load Nx Plugin: /Users/saman_mov/frontend/learning/smartMatch/node_modules/nx/src/plugins/project-json/build-nodes/package-json-next-to-project-json' 52.614083997905254ms
+[NX Daemon Server] - 2024-07-02T20:02:32.648Z - [WATCHER]: .nx/workspace-data/d/server-process.json was created or restored
+[33mThe CJS build of Vite's Node API is deprecated. See https://vitejs.dev/guide/troubleshooting.html#vite-cjs-node-api-deprecated for more details.[39m
+[NX Daemon Server] - 2024-07-02T20:02:32.787Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2024-07-02T20:02:32.787Z - Time taken for 'total for creating and serializing project graph' 1473.1478330045938ms
+[NX Daemon Server] - 2024-07-02T20:02:32.788Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-02T20:02:32.788Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-02T20:02:32.788Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-02T20:02:32.805Z - Time taken for 'hash changed files from watcher' 0.019374996423721313ms
+[NX Daemon Server] - 2024-07-02T20:02:32.807Z - Done responding to the client project-graph
+[NX Daemon Server] - 2024-07-02T20:02:32.807Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1473. Response time: 20.
+[NX Daemon Server] - 2024-07-02T20:02:32.822Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2024-07-02T20:02:32.823Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2024-07-02T20:02:32.823Z - Handled HASH_TASKS. Handling time: 10. Response time: 1.
+[NX Daemon Server] - 2024-07-02T20:02:36.106Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-02T20:02:57.796Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-07-02T20:03:30.573Z - [WATCHER]: README.md was created or restored
+[NX Daemon Server] - 2024-07-02T20:03:30.573Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-02T20:03:30.675Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-02T20:03:30.676Z - [REQUEST]: README.md
+[NX Daemon Server] - 2024-07-02T20:03:30.676Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-02T20:03:30.700Z - Time taken for 'hash changed files from watcher' 0.3247919976711273ms
+[NX Daemon Server] - 2024-07-02T20:03:30.722Z - Time taken for 'build-project-configs' 32.66050000488758ms
+[NX Daemon Server] - 2024-07-02T20:03:36.398Z - [WATCHER]: README.md was created or restored
+[NX Daemon Server] - 2024-07-02T20:03:36.398Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-02T20:03:36.500Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-02T20:03:36.500Z - [REQUEST]: README.md
+[NX Daemon Server] - 2024-07-02T20:03:36.500Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-02T20:03:36.516Z - Time taken for 'hash changed files from watcher' 0.06829199939966202ms
+[NX Daemon Server] - 2024-07-02T20:03:36.535Z - Time taken for 'build-project-configs' 25.182250000536442ms
+[NX Daemon Server] - 2024-07-02T20:03:42.256Z - [WATCHER]: README.md was created or restored
+[NX Daemon Server] - 2024-07-02T20:03:42.256Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-02T20:03:42.358Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-02T20:03:42.358Z - [REQUEST]: README.md
+[NX Daemon Server] - 2024-07-02T20:03:42.358Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-02T20:03:42.395Z - Time taken for 'hash changed files from watcher' 0.18975000083446503ms
+[NX Daemon Server] - 2024-07-02T20:03:53.037Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-02T20:03:53.058Z - [WATCHER]: README.md was created or restored
+[NX Daemon Server] - 2024-07-02T20:03:53.160Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-02T20:03:53.160Z - [REQUEST]: README.md
+[NX Daemon Server] - 2024-07-02T20:03:53.160Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-02T20:03:53.211Z - Time taken for 'hash changed files from watcher' 0.05729199945926666ms
