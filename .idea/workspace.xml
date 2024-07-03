@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df8168a6-7be4-43a8-b8fb-1b6946d08574" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/TextRange.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/__tests__/smartMatch.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/smartMatch.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +36,100 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "/Users/saman_mov/frontend/learning/smartMatch/node_modules/jest",
+    "nodejs_package_manager_path": "yarn",
+    "ts.external.directory.path": "/Users/saman_mov/frontend/learning/smartMatch/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/util/__tests" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.findInText (1)">
+    <configuration name="findInText (1)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/util/__tests__/smartMatch.test.ts" />
+      <test-names>
+        <test-name value="findInText" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="findInText" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/utill/smartMatch.test.ts" />
+      <test-names>
+        <test-name value="findInText" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="findInText.Prioritizes finding a full match over matching continuously" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/utill/smartMatch.test.ts" />
+      <test-names>
+        <test-name value="findInText" />
+        <test-name value="Prioritizes finding a full match over matching continuously" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="findInText.ignores spaces or non-alphanumeric chars" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/utill/smartMatch.test.ts" />
+      <test-names>
+        <test-name value="findInText" />
+        <test-name value="ignores spaces or non-alphanumeric chars" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="findInText.matches when initial parts of words are typed" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/utill/smartMatch.test.ts" />
+      <test-names>
+        <test-name value="findInText" />
+        <test-name value="matches when initial parts of words are typed" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.findInText (1)" />
+        <item itemvalue="Jest.findInText" />
+        <item itemvalue="Jest.findInText.matches when initial parts of words are typed" />
+        <item itemvalue="Jest.findInText.ignores spaces or non-alphanumeric chars" />
+        <item itemvalue="Jest.findInText.Prioritizes finding a full match over matching continuously" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,6 +139,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719934162066</updated>
       <workItem from="1719934163773" duration="1041000" />
+      <workItem from="1719988967038" duration="7498000" />
     </task>
     <servers />
   </component>
@@ -59,5 +156,23 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/util/__tests__/smartMatch.test.ts</url>
+          <line>37</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/util/__tests__/smartMatch.test.ts</url>
+          <line>58</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
